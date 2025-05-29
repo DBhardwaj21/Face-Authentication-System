@@ -1,6 +1,5 @@
 # 🧑‍💻 Face Authentication System
 
-![Face Authentication Banner]
 
 A smart system to authenticate users by matching their selfie with official ID documents like Aadhaar or Driving License.
 
@@ -70,8 +69,9 @@ The backend API will start at:
 
 ## 🛠 Technologies Used
 
-| 🐍 | 📦 | ⚛️ | 🎨 | 🤖 |
-|----|----|----|----|----|
+<p align="center" style="font-size: 48px;">
+  🐍 &nbsp;&nbsp;&nbsp; 📦 &nbsp;&nbsp;&nbsp; ⚛️ &nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp; 🤖
+</p>
 
 
 ---
