@@ -74,18 +74,27 @@ The backend API will start at:
 
 ## 🛠 Technologies Used
 
-<p align="center">
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f40d.png" alt="Python" width="50" height="50" />
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4e6.png" alt="Node.js" width="50" height="50" />
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/269b.png" alt="React" width="50" height="50" />
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f3a8.png" alt="CSS" width="50" height="50" />
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f916.png" alt="AI" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/serengil/deepface/master/docs/img/deepface_logo.png" alt="Deepface" width="50" height="50" />
-  <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_no_text.png" alt="OpenCV" width="50" height="50" />
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+  <!-- AI (using TensorFlow icon as AI symbol) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI" width="50" height="50" />
+  <!-- Deepface (using face recognition icon) -->
+  <img src="https://raw.githubusercontent.com/ageitgey/face_recognition/master/examples/face_recognition.jpg" alt="Deepface" width="50" height="50" />
+  <!-- OpenCV -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/OpenCV_logo.svg" alt="OpenCV" width="50" height="50" />
+  <!-- Flask -->
   <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask" width="50" height="50" />
-  <img src="https://miro.medium.com/v2/resize:fit:1600/format:webp/1*eOFMYd7pL-6rNwzfr9N5yA.png" alt="FaceNet" width="50" height="50" />
-
+  <!-- FaceNet (using a face recognition icon since no official logo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Face_recognition_icon.svg" alt="FaceNet" width="50" height="50" />
 </p>
+
 
 
 ---
