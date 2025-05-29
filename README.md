@@ -10,11 +10,15 @@ A smart system to authenticate users by matching their selfie with official ID d
 The Face Authentication System is an AI-powered application that performs secure face verification by comparing a user's selfie with the face on their official identification documents. This helps in reliable identity verification for KYC, loan processing, attendance, and more.
 
 ### Features
-- 🪪 Extracts face data from official documents (Aadhaar, Driving License, etc.)
-- 🤳 Captures and processes live selfies for real-time authentication
-- 🔐 Secure backend API powered by Flask for document processing
-- 💻 Responsive and user-friendly frontend using Node.js and modern web tech
-- 📦 Easily deployable with simple commands
+- 🔒 Secure Face Authentication: Matches user's selfie with official ID (Aadhaar, Driving License) for reliable identity verification.
+- ⚡ Real-time KYC Verification: Enables instant Know Your Customer (KYC) process by verifying identity quickly and accurately.
+- 🤳 Live Selfie Capture: Supports capturing live selfies directly via the frontend for seamless authentication.
+- 🪪 Multi-Document Support: Works with multiple official documents like Aadhaar card, Driving License, and more.
+- 📡 Flask API Backend: Robust and scalable backend API to process face extraction and matching using Python.
+- 🖥️ Modern Frontend: Responsive and user-friendly interface built with Node.js and modern frameworks.
+- 🧠 AI-Powered Face Matching: Utilizes advanced AI models (Deepface, FaceNet) for high-accuracy facial recognition.
+- 🔄 Easy Integration: Simple to deploy and integrate with existing systems or apps for user verification.
+- 📁 Secure Handling of Sensitive Data: Keeps personal information secure by handling data carefully and avoiding unnecessary storage.
 
 ---
 
@@ -67,10 +71,20 @@ The backend API will start at:
 
 ---
 
+
 ## 🛠 Technologies Used
 
-<p align="center" style="font-size: 128px;">
-  🐍 &nbsp;&nbsp;&nbsp; 📦 &nbsp;&nbsp;&nbsp; ⚛️ &nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp; 🤖
+<p align="center">
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f40d.png" alt="Python" width="50" height="50" />
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4e6.png" alt="Node.js" width="50" height="50" />
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/269b.png" alt="React" width="50" height="50" />
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f3a8.png" alt="CSS" width="50" height="50" />
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f916.png" alt="AI" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/serengil/deepface/master/docs/img/deepface_logo.png" alt="Deepface" width="50" height="50" />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_no_text.png" alt="OpenCV" width="50" height="50" />
+  <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask" width="50" height="50" />
+  <img src="https://miro.medium.com/v2/resize:fit:1600/format:webp/1*eOFMYd7pL-6rNwzfr9N5yA.png" alt="FaceNet" width="50" height="50" />
+
 </p>
 
 
@@ -79,7 +93,7 @@ The backend API will start at:
 ## 📞 Contact
 
 Created by **Dev Bhardwaj**  
-Email: dev.bhardwaj@example.com  
+Email: dev.bhardwaj@gmail.com  
 GitHub: [DBhardwaj21](https://github.com/DBhardwaj21)
 
 ---
