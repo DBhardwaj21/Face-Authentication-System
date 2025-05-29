@@ -88,9 +88,9 @@ The backend API will start at:
   <!-- Deepface (using face recognition icon) -->
   <img src="https://pypi-camo.freetls.fastly.net/902cc808c72f9247a3df377f968721d0ef0c29f0/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736572656e67696c2f64656570666163652f6d61737465722f69636f6e2f64656570666163652d69636f6e2d6c6162656c65642e706e67" alt="Deepface" width="50" height="50" />
   <!-- OpenCV -->
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/49/OpenCV_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png)" alt="OpenCV" width="50" height="50" />
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="50" />
   <!-- Flask -->
-  <img src="[https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask](https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png)" width="50" height="50" />
+  <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask" width="50" height="50" />
   <!-- FaceNet (using a face recognition icon since no official logo) -->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gQLvvmzp4rPs635tRR7AiqRW4wSHo-QjHw&s" alt="FaceNet" width="50" height="50" />
 </p>
