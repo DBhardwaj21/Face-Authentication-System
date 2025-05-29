@@ -102,7 +102,7 @@ The backend API will start at:
 ## 📞 Contact
 
 Created by **Dev Bhardwaj**  
-Email: dev.bhardwaj@gmail.com  
+Email: dev.bhardwaj2103@gmail.com  
 GitHub: [DBhardwaj21](https://github.com/DBhardwaj21)
 
 ---
