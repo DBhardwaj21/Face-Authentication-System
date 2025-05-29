@@ -69,7 +69,7 @@ The backend API will start at:
 
 ## 🛠 Technologies Used
 
-<p align="center" style="font-size: 48px;">
+<p align="center" style="font-size: 128px;">
   🐍 &nbsp;&nbsp;&nbsp; 📦 &nbsp;&nbsp;&nbsp; ⚛️ &nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp; 🤖
 </p>
 
